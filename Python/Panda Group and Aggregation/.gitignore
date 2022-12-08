@@ -1,0 +1,7 @@
+.venv/
+.ipynb_checkpoints/
+.pytest_cache
+__pycache__
+.DS_Store
+database.db
+test.db
